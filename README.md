@@ -6,4 +6,4 @@
 
 </br><h3>To run</h3>
 All requirements to run it can be seen on <b>requirements.txt</b></p>
-<p>Follow the branch <b>master</b></p>
+<p>Follow the <b>master</b> branch </p>
